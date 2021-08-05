@@ -1,0 +1,51 @@
+/* .col{
+  margin: 3% 8%;
+} */
+*{
+  margin: 0 ;
+  padding: 0;
+}
+body{
+overflow-x: hidden;
+}
+.pt{
+    text-align: center;
+    font-size: 17px;
+    font-family: serif;
+    position: absolute;
+    width: 8%;
+    font-weight: bold;
+    display: contents;
+}
+.product{
+  display: inline-block;
+  width: 22%;
+  
+}
+
+.pro-img{
+height: 33vh;
+}
+.btn btn-outline-danger{
+  width: 100%;
+}
+.p-name{
+  text-align: center;
+    font-size: 28px;
+    color: crimson;
+    font-family: cursive;
+}
+
+.iconMain {
+  width: 38%;
+  margin: 0 auto;
+}
+.iconBox{
+  text-align: center;
+}
+.card-text{
+  text-align: left;
+}
+.buttonIcon{
+display: block;
+}
